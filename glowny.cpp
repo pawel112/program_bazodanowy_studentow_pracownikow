@@ -1,12 +1,11 @@
-//Zadanie semestralne nr. 7
-//Autor: Pawe≥ Roszatycki
+//Autor: Pawe≈Ç Roszatycki
 
-//za≥πczanie bibliotek
+//za≈ÇƒÖczanie bibliotek
 #include <iostream>
 #include <cstdlib>
 #include <string>
 
-//za≥πczanie w≥asnych plikÛw
+//za≈ÇƒÖczanie w≈Çasnych plik√≥w
 #include "menu.h"
 #include "zapis_odczyt.h"
 #include "obiekty.h"
@@ -15,13 +14,13 @@ int main ()
 {
 	szablon *glowa_szablon = NULL;
 
-	//zmiana kodowania znakÛw, w celu poprawnego wyúwietlania wszystkich liter uøywanych w polskim alfabecie
+	//zmiana kodowania znak√≥w, w celu poprawnego wy≈õwietlania wszystkich liter u≈ºywanych w polskim alfabecie
 	setlocale(LC_ALL, "polish");
 
 	//odczyt danych z pliku lista.txt
 	glowa_szablon = odczyt (glowa_szablon);
 	
-	//wywo≥ywanie menu
+	//wywo≈Çywanie menu
 	menu (glowa_szablon);
 
 	system ("pause");
