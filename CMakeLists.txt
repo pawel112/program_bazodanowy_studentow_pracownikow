@@ -1,0 +1,6 @@
+cmake_minimum_required (VERSION 2.6)
+SET (name program_bazodanowy)
+SET (sources glowny.cpp zapis_odczyt.cpp obiekty.cpp menu.cpp)
+SET (headers zapis_odczyt.h menu.h obiekty.h)
+project (${name})
+add_executable (${name} ${sources} ${headers})

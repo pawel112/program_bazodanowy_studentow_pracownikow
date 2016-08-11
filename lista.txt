@@ -1,0 +1,20 @@
+Lista studentów:
+12345 NazwiskoZ 0
+77777 NazwiskoY 4
+44433 NazwiskoX 5
+34567 Nazwisko3 3.5
+45678 Nazwisko4 4.5
+56789 Nazwisko5 0
+67890 Nazwisko6 3
+78901 Nazwisko7 4.5
+44444 NazwiskoA 3
+88888 NazwiskoB 2
+19432 NazwiskoC 3.5
+
+Lista pracowników:
+3333333 NazwiskoP 0
+1234567 Nazwisko1 4.5
+2345678 Nazwisko2 2.34
+4567890 Nazwisko3 0
+6666666 Nazwisko4 1.5
+8888888 Nazwisko5 4.5

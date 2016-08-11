@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="pracownik">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAIAAAAAAAAAAAAAEAACAAAAAA=</HashCode>
+      <FileName>obiekty.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="student">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAEAACAAAAAA=</HashCode>
+      <FileName>obiekty.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="szablon">
+    <Position X="3.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAKgAAAAAgAABACAAAgAAEMACIAAAAA=</HashCode>
+      <FileName>obiekty.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
